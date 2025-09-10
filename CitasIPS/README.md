@@ -17,4 +17,4 @@ dotnet run
 - Program.cs: Menú de consola.
 
 ## Notas
-- Este proyecto incluye persistencia en memoria (bonus). Puedes extenderlo para guardar/leer JSON.
+- Este proyecto incluye persistencia en memoria.
